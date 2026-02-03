@@ -1,4 +1,7 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# 🦞 OpenClaw Ubuntu Edition 🐧
+
+**OpenClaw Ubuntu Edition** is a fork of OpenClaw optimized for the Ubuntu Desktop experience.
+It replaces macOS-specific dependencies (like `osascript`) with Linux-native tools (`xdg-open`, `xdotool`, etc.) for seamless personal AI automation on Linux.
 
 <p align="center">
     <picture>
